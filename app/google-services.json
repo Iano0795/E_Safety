@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77064568679",
+    "project_id": "e-safety-bd3f8",
+    "storage_bucket": "e-safety-bd3f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77064568679:android:86350201e507f54f3b79c2",
+        "android_client_info": {
+          "package_name": "com.android.e_safety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeUVeimjeKFPPCvmZIMV4NsaQgzQCk7iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

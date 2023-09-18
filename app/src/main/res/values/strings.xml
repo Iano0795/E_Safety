@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">E-Safety</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="mailPattern">[a-zA-Z._-]+@[a-z]+.+[a-z]+</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User Name</string>
+    <string name="nav_header_subtitle">User Email</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Hotline</string>
+    <string name="menu_slideshow">Report</string>
+</resources>
